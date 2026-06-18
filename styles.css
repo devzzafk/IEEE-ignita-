@@ -1,10 +1,3 @@
-/* ============================================================
-   IEEE IGNITE — stylesheet
-   Design language: a printed-circuit-board metaphor for an
-   electronics/engineering student event. Traces, nodes and a
-   travelling spark stand in for the usual gradient-blob hero.
-   ============================================================ */
-
 :root{
   /* --- color tokens --- */
   --bg:            #F5F7FB;
