@@ -1,10 +1,3 @@
-/* ============================================================
-   IEEE IGNITE — interactions
-   Vanilla JS only: nav toggle + active link tracking, header
-   scroll state, event filter + search, FAQ accordion, and a
-   light reveal-on-scroll effect.
-   ============================================================ */
-
 document.addEventListener('DOMContentLoaded', () => {
 
   /* ---------------------------------------------------------- Mobile nav */
